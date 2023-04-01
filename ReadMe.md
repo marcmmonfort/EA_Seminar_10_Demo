@@ -1,0 +1,1 @@
+Repositorio del Seminario 10 de EA con la aproximación de Marc a una App (y su requerido BackEnd) para listar usuarios y también poder hacer registros.
